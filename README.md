@@ -1,4 +1,4 @@
-![MastHead](https://www.shutterstock.com/image-illustration/web-development-concept-table-computer-600w-552143608.jpg)
+
 <h1 align="center">Hi 👋, I'm Vasav Chaudhary</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
