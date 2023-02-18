@@ -18,7 +18,7 @@
 - 💬 Ask me about **Frontend Web Development,Machine Learning**
 
 - 📫 How to reach me **vipulchaudhary6932@gmail.com**
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1p1b76fw4wuGQ82DCZ4PH3A0pVa5HGekU/view"> Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1wagskyaVBGqgkC4kaHNCFyb9xj_eANnC/view?usp=share_link"> Resume</a>
 
 - ⚡ Fun fact **I am quite a comedian**
 
